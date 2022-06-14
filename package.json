@@ -1,0 +1,19 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Demo Website For Web Fundamentals 1 Workshop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Howard-yzu/portfolio-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Howard-yzu/portfolio-1/issues"
+  },
+  "homepage": "https://github.com/Howard-yzu/portfolio-1#readme"
+}
